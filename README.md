@@ -16,7 +16,7 @@ Traditionally, action recognition has been treated as a high-level video classif
 
 - train_videos：~ 4.96 GB
 - test_videos：~ 1.26 GB
-- annotations:  ~ 348。6 MB
+- annotations:  ~ 348.6 MB
 - list:  ~ 68 KB
 - total: ~ 6.56 GB
 
