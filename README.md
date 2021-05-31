@@ -85,10 +85,9 @@ We will provide some detailed information about Kinetics-KPS dataset. You can al
 
 
 #### Reference 
-[1]. Li, Chaolong, Zhen Cui, Wenming Zheng, Chunyan Xu, and Jian Yang. "Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 32, no. 1. 2018.
+[1]. Li, Chaolong, Zhen Cui, Wenming Zheng, Chunyan Xu, and Jian Yang. "Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition." In Proceedings of the AAAI Conference on Artificial Intelligence, vol.32, no.1.2018.
+[2]. Carreira J, Zisserman A. Quo vadis, action recognition? a new model and the kinetics dataset [C]//CVPR. 2017 
+[3]. Carreira J, Noland E, Banki-Horvath A, et al. A Short Note about Kinetics-600 [J]. arXiv e-prints, 2018: arXiv: 1808.01340 
+[4]. Carreira J, Noland E, Hillier C, et al. A short note on the kinetics-700 human action dataset [J].arXiv preprint arXiv: 1907.06987, 2019 
 
-[2]. Carreira J, Zisserman A. Quo vadis, action recognition? a new model and the kinetics dataset [C]//CVPR. 2017
 
-[3]. Carreira J, Noland E, Banki-Horvath A, et al. A Short Note about Kinetics-600 [J]. arXiv e-prints,2018: arXiv:1808.0134
-
-[4]. Carreira J, Noland E, Hillier C, et al. A short note on the kinetics-700 human action dataset [J].arXiv preprint arXiv:1907.06987, 2019
