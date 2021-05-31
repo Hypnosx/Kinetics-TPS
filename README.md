@@ -84,13 +84,6 @@ We will provide some detailed information about Kinetics-KPS dataset. You can al
   - The label 'none' means the other objects that undefined in our vocabulary.
 
 
-#### Reference 
-[1]. Andrej Karpathy, George Toderici, Sanketh Shetty, Thomas 1055 Leung, Rahul Sukthankar, and Li Fei-Fei. Large-scale video 1056 classification with convolutional neural networks. In CVPR, 1057 2014.
 
-[2]. Joao Carreira and Andrew Zisserman. Quo vadis, action recognition? a new model and the kinetics dataset. In pro- ceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 6299–6308, 2017. 
-
-[3].  Will Kay, Joao Carreira, Karen Simonyan, Brian Zhang,Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola,Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman,and Andrew Zisserman. The Kinetics Human Action Video Dataset. arXiv e-prints, page arXiv:1705.06950, May 2017.
-
-[4]. Joao Carreira, Eric Noland, Chloe Hillier, and Andrew Zis- serman. A short note on the kinetics-700 human action dataset, 2019. 
 
 
