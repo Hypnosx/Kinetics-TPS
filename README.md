@@ -24,7 +24,7 @@ Traditionally, action recognition has been treated as a high-level video classif
 
 ---
 
-Manually unzip all the files. It may take a few minutes or hours. After unzipping the files, you will get all the data in the following folder structure:
+After unzipping the files, you will get all the data in the following folder structure:
 
 ```
 Kinetics-TPS
